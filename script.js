@@ -108,5 +108,3 @@ row.children[2].innerText = peet.name;
 row.children[3].innerText = peet.totalVotes;
 row.children[5].innerText = winner;
 
-
-
